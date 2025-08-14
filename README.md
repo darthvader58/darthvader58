@@ -1,9 +1,11 @@
 # Shashwat Raj 
 
 
-<a href="https://www.linkedin.com/in/raj-shashwat"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.github.com/darthvader58"><img alt="GitHub followers" src="https://img.shields.io/github/followers/darthvader58?&style=for-the-badge&color=416294"></a>
-<a href="https://www.shashwatraj.com"><img alt="About Me" src="https://img.shields.io/badge/Website-2B8644?&style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/raj-shashwat"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=Linkedin&logoColor=white&color=0077B5"></a>
+<a href="https://www.github.com/darthvader58"><img alt="GitHub followers" src="https://img.shields.io/github/followers/darthvader58?&style=for-the-badge&color=419478&logo=github"></a>
+<a href="https://www.shashwatraj.com"><img alt="About Me" src="https://img.shields.io/badge/Website-181818?&style=for-the-badge"></a>
+<a href="https://www.behance.net/shashwatraj1"><img alt="Behance" src="https://img.shields.io/badge/Behance-%230077B5.svg?&style=for-the-badge&logo=behance&logoColor=white&color=1769FF"></a>
+<a href="https://www.instagram.com/shash._me"><img alt="Insta" src="https://img.shields.io/badge/Socials-%20FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=FF0069"></a>
 
 ## <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"></picture> Hello There, I'm Shash
 
