@@ -19,8 +19,21 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 Junior at Arizona State University, B.S.E in Computer Systems Engr. + B.S in Mathematics.
 
 ### Research 👨‍🔬
+<ul type=square>
+<li>Optimizing Earth Science Missions : Developing RL Techniques for Autonomously Determining Priority Observations in a Dynamic Environment - Mentored by Dr. Paul Grogan at the Collective Design (CoDe) lab at Arizona State University</li>
+<li>Co-authoring a review paper discussing the similarity, differences and opportunities upon integration between Observing System Simulation Experiments (OSSEs) and Mission Engineering. </li>
+<li>Working on a distinguisher model for classifying random plaintext and ciphertext encrypted in AES in CBC mode, mentored by Dr. Shantanu and Dr. Girish at Scientific Analysis Group (SAG), DRDO. </li>
+<li>Will be working in LENS (Laboratory for Learning Evaluation and Naturalization of Systems) Lab this Fall 2025.</li>
+</ul>
 
-### Other Hobbies
+### Other Hobbies 🏏
+<ul type=square>
+<li>Cricket, Chess, Basketball, Boxing</li>
+<li>Flute, Listening to music</li>
+<li>Puzzles like Sudoku, Simon-Tothem's Keen Puzzle, Leetcode, fun Math problems</li>
+<li>Playing Fifa and Rocket League</li>
+<li>Vector Designs</li>
+<li>Group Discussions</li>
 
 ## Technical Skills
 
