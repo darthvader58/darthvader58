@@ -49,7 +49,7 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <li>Playing Fifa and Rocket League</li>
 <li>Vector Designs</li>
 <li>Group Discussions</li>
-
+</ul>ul>
 ## Technical Skills
 
 ### Languages
