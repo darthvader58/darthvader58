@@ -19,7 +19,7 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 ### 🎓 Education 
 <ul type=square>
 <li>Undergraduate Junior at Arizona State University, B.S.E in Computer Systems Engr. + B.S in Mathematics.</li>  
-<li>High School at Delhi Public School RK Puram, Delhi, India. Physics, Chemistry, Math, Cs, English and French.</li>
+<li>High School at Delhi Public School RK Puram, Delhi, India. Physics, Chemistry, Math, Cs, English and French.</li></ul>
 
 ### ♣️ Clubs and Leaderships 
 <ul type=square>
