@@ -6,6 +6,7 @@
 <a href="https://www.shashwatraj.com"><img alt="About Me" src="https://img.shields.io/badge/Website-975ADD?&style=for-the-badge"></a>
 <a href="https://www.behance.net/shashwatraj1"><img alt="Behance" src="https://img.shields.io/badge/Behance-%230077B5.svg?&style=for-the-badge&logo=behance&logoColor=white&color=1769FF"></a>
 <a href="https://www.instagram.com/shash._me"><img alt="Insta" src="https://img.shields.io/badge/Socials-%20FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=FF0069"></a>
+<a href="mailto:rajayshashwat@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Contact_Me-%232D2B55.svg?&style=for-the-badge&logo=gmail&color=2D2B55"></a>
 
 ## Hello There, I'm Shash
 
