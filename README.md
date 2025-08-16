@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/shash._me"><img alt="Insta" src="https://img.shields.io/badge/Socials-%20FF0069.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=FF0069"></a>
 <a href="mailto:rajayshashwat@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Contact_Me-%232D2B55.svg?&style=for-the-badge&logo=gmail&color=2D2B55"></a>
 
-## Hello There, I'm Shash
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello There, I'm Shash
 
 ### About Me 👨‍🦱
 
