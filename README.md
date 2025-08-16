@@ -12,7 +12,7 @@
 
 ### About Me 👨‍🦱
 
-I am a passionate tech enthusiast who loves to innovate and build variety of projects. I am currently double majoring  in Computer Systems Engineering (CSE) and Mathematics at Arizona State University. I am 2x startup founder and a podcast host! Check out my podcast "Write It Out" (link given right below ). My work as a student researcher at CoDe Lab under Dr. Grogan at ASU revolves around optimizing Earth science Missions  through Reinforcement learning. I also work at LENS Lab @ASU under Dr. Som Sagar for machine learning in autonomous systems and operational applications. During my fun time, I love to play cricket, the flute, do go-karting and solve a variety of puzzles. <br>
+I am a passionate tech enthusiast who loves to innovate and build variety of projects. I am currently double majoring  in Computer Systems Engineering (CSE) and Mathematics at Arizona State University. I am a 2x startup founder and a podcast host! Check out my podcast "Write It Out" (link given right below ). My work as a student researcher at CoDe Lab under Dr. Paul Grogan at ASU revolves around optimizing Earth science Missions  through Reinforcement learning. I also work at LENS Lab @ASU under Dr. Som Sagar for machine learning in autonomous systems and operational applications. During my fun time, I love to play cricket, the flute, do go-karting and solve a variety of puzzles. <br>
 
 <a href="https://www.youtube.com/@Kavvy.literary"><img alt="Kavvy Youtube" src="https://img.shields.io/badge/Write_It_Out-%FF0000.svg?&style=for-the-badge&logo=youtube&color=FF0000"></a><br>
 
