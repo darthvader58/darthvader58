@@ -50,9 +50,11 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <li>Vector Designs</li>
 <li>Group Discussions</li>
 </ul>
+
 ## Technical Skills
 
 ### Languages
+<p>
 <img alt="python" src="https://img.shields.io/badge/Python-%232D2B55.svg?&style=for-the-badge&logo=python&color=2D2B55">
 <img alt="C++" src="https://img.shields.io/badge/C++-%232D2B55.svg?&style=for-the-badge&logo=cplusplus&color=2D2B55">
 <img alt="C" src="https://img.shields.io/badge/C-%232D2B55.svg?&style=for-the-badge&logo=C&color=2D2B55">
@@ -69,9 +71,10 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <img alt="Matlab" src="https://img.shields.io/badge/Matlab-%232D2B55.svg?&style=for-the-badge">
 <img alt="VHDL" src="https://img.shields.io/badge/VHDL-%232D2B55.svg?&style=for-the-badge">
 <img alt="Verilog" src="https://img.shields.io/badge/Verilog-%232D2B55.svg?&style=for-the-badge">
-<img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS_Assembly-%232D2B55.svg?&style=for-the-badge">
+<img alt="MIPS Assembly" src="https://img.shields.io/badge/MIPS_Assembly-%232D2B55.svg?&style=for-the-badge"></p>
 
 ### Frontend, Backend and Database Technologies
+<p>
 <img alt="HTML" src="https://img.shields.io/badge/HTML-%232D2B55.svg?&style=for-the-badge&logo=HTML5&color=2D2B55">
 <img alt="CSS" src="https://img.shields.io/badge/CSS-%232D2B55.svg?&style=for-the-badge&logo=css&color=2D2B55">
 <img alt="React" src="https://img.shields.io/badge/React-%232D2B55.svg?&style=for-the-badge&logo=react&color=2D2B55">
@@ -86,8 +89,10 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%232D2B55.svg?&style=for-the-badge&logo=firebase&color=2D2B55">
 <img alt="postgre" src="https://img.shields.io/badge/PostGreSQL-%232D2B55.svg?&style=for-the-badge&logo=postgresql&color=2D2B55">
 <img alt="docker" src="https://img.shields.io/badge/Docker-%232D2B55.svg?&style=for-the-badge&logo=docker&color=2D2B55">
+</p>
 
 ### AI and Machine Learning
+<p>
 <img alt="numpy" src="https://img.shields.io/badge/Numpy-%232D2B55.svg?&style=for-the-badge&logo=numpy&color=2D2B55">
 <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%232D2B55.svg?&style=for-the-badge&logo=Pandas&color=2D2B55">
 <img alt="Geopandas" src="https://img.shields.io/badge/Geopandas-%232D2B55.svg?&style=for-the-badge&logo=geopandas&color=2D2B55">
@@ -98,30 +103,41 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <img alt="spacy" src="https://img.shields.io/badge/spaCy-%232D2B55.svg?&style=for-the-badge&logo=spacy&color=2D2B55">
 <img alt="opencv" src="https://img.shields.io/badge/OpenCV-%232D2B55.svg?&style=for-the-badge&logo=opencv&color=2D2B55">
 <img alt="gym" src="https://img.shields.io/badge/OpenAI GYM-%232D2B55.svg?&style=for-the-badge&logo=openaigym&color=2D2B55">
+</p>
 
 ### Internet of Things
+<p>
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-%232D2B55.svg?&style=for-the-badge&logo=Arduino&color=2D2B55">
 <img alt="rasp" src="https://img.shields.io/badge/RaspberryPI-%232D2B55.svg?&style=for-the-badge&logo=raspberrypi&color=2D2B55">
 <img alt="esp" src="https://img.shields.io/badge/ESP_WIFI-%232D2B55.svg?&style=for-the-badge&logo=esphome&color=2D2B55">
+</p>
 
 ### Version Control
+<p>
 <img alt="Git" src="https://img.shields.io/badge/GIT-%232D2B55.svg?&style=for-the-badge&logo=git&color=2D2B55">
 <img alt="Github" src="https://img.shields.io/badge/Github-%232D2B55.svg?&style=for-the-badge&logo=github&color=2D2B55">
+</p>
 
 ### Deployment
+<p>
 <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%232D2B55.svg?&style=for-the-badge&logo=kubernetes&color=2D2B55">
 <img alt="Railway" src="https://img.shields.io/badge/Railway-%232D2B55.svg?&style=for-the-badge&logo=railway&color=2D2B55">
 <img alt="vercel" src="https://img.shields.io/badge/Vercel-%232D2B55.svg?&style=for-the-badge&logo=Vercel&color=2D2B55">
 <img alt="Heroku" src="https://img.shields.io/badge/Heroku-%232D2B55.svg?&style=for-the-badge&logo=Heroku&color=2D2B55">
+</p>
 
 ### Circuit Designing
+<p>
 <img alt="kicad" src="https://img.shields.io/badge/KiCAD-%232D2B55.svg?&style=for-the-badge&logo=kicad&color=2D2B55">
 <img alt="ltspice" src="https://img.shields.io/badge/LTSpice-%232D2B55.svg?&style=for-the-badge&logo=ltspice&color=2D2B55">
+</p>
 
 ### CAD and Simulation 
+<p>
 <img alt="Autodesk" src="https://img.shields.io/badge/Autodesk-%232D2B55.svg?&style=for-the-badge&logo=autodesk&color=2D2B55">
 <img alt="TinkerCad" src="https://img.shields.io/badge/TinkerCad-%232D2B55.svg?&style=for-the-badge&logo=tinkercad&color=2D2B55">
 <img alt="Ansys" src="https://img.shields.io/badge/Ansys-%232D2B55.svg?&style=for-the-badge&logo=Ansys&color=2D2B55">
+</p>
 
 
 
