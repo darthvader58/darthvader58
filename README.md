@@ -28,7 +28,6 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <li>Venture Devils</li>
 <li>FURI Fall 2024, Spring 2025</li>
 <li>ASU Section Leader Fall 2024 under Prof. Wasif Bokhari</li>
-<li>Member at Hacker Devils</li>
 <li>Former Acting Director of Technology at (Association for Computin and Machinery) ACM@ASU</li>
 <li>Former Member in Coconut CubeSat project for NASA CSLI'24, Sun Devil Satellite Laboratory</li>
 </ul>
