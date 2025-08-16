@@ -16,8 +16,9 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <a href="https://www.youtube.com/@Kavvy.literary"><img alt="Kavvy Youtube" src="https://img.shields.io/badge/Write_It_Out-%FF0000.svg?&style=for-the-badge&logo=youtube&color=FF0000"></a><br>
 
 ### 🎓 Education 
-Undergraduate Junior at Arizona State University, B.S.E in Computer Systems Engr. + B.S in Mathematics. <br>
-High School at Delhi Public School RK Puram, Delhi, India. Physics, Chemistry, Math, Cs, English and French
+<ul type=square>
+<li>Undergraduate Junior at Arizona State University, B.S.E in Computer Systems Engr. + B.S in Mathematics.</li>  
+<li>High School at Delhi Public School RK Puram, Delhi, India. Physics, Chemistry, Math, Cs, English and French.</li>
 
 ### ♣️ Clubs and Leaderships 
 <ul type=square>
@@ -83,6 +84,7 @@ High School at Delhi Public School RK Puram, Delhi, India. Physics, Chemistry, M
 <img alt="Cockdb" src="https://img.shields.io/badge/CockroachDB-%232D2B55.svg?&style=for-the-badge&logo=cockroachlabs&color=2D2B55">
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%232D2B55.svg?&style=for-the-badge&logo=firebase&color=2D2B55">
 <img alt="postgre" src="https://img.shields.io/badge/PostGreSQL-%232D2B55.svg?&style=for-the-badge&logo=postgresql&color=2D2B55">
+<img alt="docker" src="https://img.shields.io/badge/Docker-%232D2B55.svg?&style=for-the-badge&logo=docker&color=2D2B55">
 
 ### AI and Machine Learning
 <img alt="numpy" src="https://img.shields.io/badge/Numpy-%232D2B55.svg?&style=for-the-badge&logo=numpy&color=2D2B55">
@@ -97,14 +99,28 @@ High School at Delhi Public School RK Puram, Delhi, India. Physics, Chemistry, M
 <img alt="gym" src="https://img.shields.io/badge/OpenAI GYM-%232D2B55.svg?&style=for-the-badge&logo=openaigym&color=2D2B55">
 
 ### Internet of Things
+<img alt="Arduino" src="https://img.shields.io/badge/Arduino-%232D2B55.svg?&style=for-the-badge&logo=Arduino&color=2D2B55">
+<img alt="rasp" src="https://img.shields.io/badge/RaspberryPI-%232D2B55.svg?&style=for-the-badge&logo=raspberrypi&color=2D2B55">
+<img alt="esp" src="https://img.shields.io/badge/ESP_WIFI-%232D2B55.svg?&style=for-the-badge&logo=esphome&color=2D2B55">
 
 ### Version Control
+<img alt="Git" src="https://img.shields.io/badge/GIT-%232D2B55.svg?&style=for-the-badge&logo=git&color=2D2B55">
+<img alt="Github" src="https://img.shields.io/badge/Github-%232D2B55.svg?&style=for-the-badge&logo=github&color=2D2B55">
+
+### Deployment
+<img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-%232D2B55.svg?&style=for-the-badge&logo=kubernetes&color=2D2B55">
+<img alt="Railway" src="https://img.shields.io/badge/Railway-%232D2B55.svg?&style=for-the-badge&logo=railway&color=2D2B55">
+<img alt="vercel" src="https://img.shields.io/badge/Vercel-%232D2B55.svg?&style=for-the-badge&logo=Vercel&color=2D2B55">
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-%232D2B55.svg?&style=for-the-badge&logo=Heroku&color=2D2B55">
 
 ### Circuit Designing
+<img alt="kicad" src="https://img.shields.io/badge/KiCAD-%232D2B55.svg?&style=for-the-badge&logo=kicad&color=2D2B55">
+<img alt="ltspice" src="https://img.shields.io/badge/LTSpice-%232D2B55.svg?&style=for-the-badge&logo=ltspice&color=2D2B55">
 
 ### CAD and Simulation 
-
-### Productivity and Everyday Use
+<img alt="Autodesk" src="https://img.shields.io/badge/Autodesk-%232D2B55.svg?&style=for-the-badge&logo=autodesk&color=2D2B55">
+<img alt="TinkerCad" src="https://img.shields.io/badge/TinkerCad-%232D2B55.svg?&style=for-the-badge&logo=tinkercad&color=2D2B55">
+<img alt="Ansys" src="https://img.shields.io/badge/Ansys-%232D2B55.svg?&style=for-the-badge&logo=Ansys&color=2D2B55">
 
 
 
