@@ -67,6 +67,7 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <img alt="SQL" src="https://img.shields.io/badge/SQL-%232D2B55.svg?&style=for-the-badge&logo=mysql&color=2D2B55">
 <img alt="Dart" src="https://img.shields.io/badge/Dart-%232D2B55.svg?&style=for-the-badge&logo=dart&color=2D2B55">
 <img alt="Perl" src="https://img.shields.io/badge/Perl-%232D2B55.svg?&style=for-the-badge&logo=perl&color=2D2B55">
+  <img alt="Cuda" src="https://img.shields.io/badge/CUDA-%232D2B55.svg?&style=for-the-badge&logo=nvidia&color=2D2B55">
 <img alt="Matlab" src="https://img.shields.io/badge/Matlab-%232D2B55.svg?&style=for-the-badge">
 <img alt="VHDL" src="https://img.shields.io/badge/VHDL-%232D2B55.svg?&style=for-the-badge">
 <img alt="Verilog" src="https://img.shields.io/badge/Verilog-%232D2B55.svg?&style=for-the-badge">
