@@ -17,6 +17,7 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <a href="https://www.youtube.com/@Kavvy.literary"><img alt="Kavvy Youtube" src="https://img.shields.io/badge/Write_It_Out-%FF0000.svg?&style=for-the-badge&logo=youtube&color=FF0000"></a>
 <a href="https://open.spotify.com/show/3hOrhL4KTN4vRYUcfstmyy?si=126ae7984d674145"><img alt="Kavvy spotify" src="https://img.shields.io/badge/Write_It_Out-%1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=1ED760"></a><br>
 <hr>
+
 ### 🎓 Education 
 <ul type=square>
 <li>Undergraduate Junior at Arizona State University, B.S.E in Computer Systems Engr. + B.S in Mathematics.</li>  
