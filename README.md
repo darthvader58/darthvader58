@@ -62,6 +62,7 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <img alt="C" src="https://img.shields.io/badge/C-%232D2B55.svg?&style=for-the-badge&logo=C&color=2D2B55">
 <img alt="Java" src="https://img.shields.io/badge/Java-%232D2B55.svg?&style=for-the-badge&logo=Java&color=2D2B55">
 <img alt="Js" src="https://img.shields.io/badge/Javascript-%232D2B55.svg?&style=for-the-badge&logo=javascript&color=2D2B55">
+<img alt="Rust" src="https://img.shields.io/badge/Rust-%232D2B55.svg?&style=for-the-badge&logo=rust&color=2D2B55">
 <img alt="Go" src="https://img.shields.io/badge/Go Language-%232D2B55.svg?&style=for-the-badge&logo=go&color=2D2B55">
 <img alt="Ruby" src="https://img.shields.io/badge/Ruby-%232D2B55.svg?&style=for-the-badge&logo=Ruby&color=2D2B55">
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%232D2B55.svg?&style=for-the-badge&logo=LaTeX&color=2D2B55">
