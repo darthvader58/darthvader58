@@ -54,11 +54,10 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 </ul>
 
 ### Github Stats
-![darthvader58's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darthvader58&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) <br>
+![darthvader58's All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darthvader58&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=20) <br>
 
 ### Github Activity
 ![darthvader58's Streak](https://github-readme-streak-stats.herokuapp.com/?user=darthvader58&theme=tokyonight&hide_border=false)
-
 
 ## Technical Skills
 
@@ -71,12 +70,13 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <img alt="Js" src="https://img.shields.io/badge/Javascript-%232D2B55.svg?&style=for-the-badge&logo=javascript&color=2D2B55">
 <img alt="Rust" src="https://img.shields.io/badge/Rust-%232D2B55.svg?&style=for-the-badge&logo=rust&color=2D2B55">
 <img alt="Go" src="https://img.shields.io/badge/Go Language-%232D2B55.svg?&style=for-the-badge&logo=go&color=2D2B55">
-<img alt="Ruby" src="https://img.shields.io/badge/Ruby-%232D2B55.svg?&style=for-the-badge&logo=Ruby&color=2D2B55">
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-%232D2B55.svg?&style=for-the-badge&logo=Ruby&color=2D2B55&logoColor=CC342D">
+<img alt="Astro" src="https://img.shields.io/badge/Astro-%232D2B55.svg?&style=for-the-badge&logo=astro&color=2D2B55">
 <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-%232D2B55.svg?&style=for-the-badge&logo=LaTeX&color=2D2B55">
 <img alt="Lua" src="https://img.shields.io/badge/Lua-%232D2B55.svg?&style=for-the-badge&logo=Lua&color=2D2B55">
 <img alt="R" src="https://img.shields.io/badge/R-%232D2B55.svg?&style=for-the-badge&logo=R&color=2D2B55">
 <img alt="SQL" src="https://img.shields.io/badge/SQL-%232D2B55.svg?&style=for-the-badge&logo=mysql&color=2D2B55">
-<img alt="Dart" src="https://img.shields.io/badge/Dart-%232D2B55.svg?&style=for-the-badge&logo=dart&color=2D2B55">
+<img alt="Dart" src="https://img.shields.io/badge/Dart-%232D2B55.svg?&style=for-the-badge&logo=dart&color=2D2B55&logoColor=0175C2">
 <img alt="Perl" src="https://img.shields.io/badge/Perl-%232D2B55.svg?&style=for-the-badge&logo=perl&color=2D2B55">
   <img alt="Cuda" src="https://img.shields.io/badge/CUDA-%232D2B55.svg?&style=for-the-badge&logo=nvidia&color=2D2B55">
 <img alt="Matlab" src="https://img.shields.io/badge/Matlab-%232D2B55.svg?&style=for-the-badge">
