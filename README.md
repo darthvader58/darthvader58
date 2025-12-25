@@ -57,7 +57,7 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 ![darthvader58's All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darthvader58&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=20) <br>
 
 ### Github Activity
-![darthvader58's Streak](https://github-readme-streak-stats.herokuapp.com/?user=darthvader58&theme=tokyonight&hide_border=false)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=darthvader58)](https://git.io/streak-stats)
 
 ## Technical Skills
 
