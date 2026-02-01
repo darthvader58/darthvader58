@@ -51,6 +51,11 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
   <li><a href="https://github.com/darthvader58/Machine_Learning_From_Scratch">ML Algorithms</a> made from scratch without libraries like tensorflow, pytorch or scikit-learn.</li>
 </ul>
 
+### Open-Source Contributions (Approved)
+<ul>
+  <li><a href="github.com/mochajs/mocha">MochaJs</a></li>
+</ul>
+
 <hr>
 
 ## My Life
@@ -89,9 +94,6 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <li>Vector Designs</li>
 <li>Group Discussions</li>
 </ul>
-
-### Github Stats
-![darthvader58's All Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darthvader58&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&langs_count=20) <br>
 
 ### Github Activity
 [![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=darthvader58&theme=nightowl)](https://git.io/streak-stats)
@@ -188,18 +190,3 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 </p>
 
 
-
-<!--
-**darthvader58/darthvader58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
