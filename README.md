@@ -18,6 +18,43 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <a href="https://open.spotify.com/show/3hOrhL4KTN4vRYUcfstmyy?si=126ae7984d674145"><img alt="Kavvy spotify" src="https://img.shields.io/badge/Write_It_Out-%1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=1ED760"></a><br>
 <hr>
 
+## Projects Highlight (The ones I am most proud of)
+### Games
+<ul>
+<li><a href="https://github.com/darthvader58/numericle">Numericle</a> : Daily Math Sequence Finding Puzzle : Wordle but for mathematicians! Available at <a href="numericle.space"><i>numericle.space</i></a><br></li>
+<li><a href="https://github.com/darthvader58/braindevils">BrainDevils</a> : Fun collection of 3 simple games that improve fine motor skills. Available at <a href="braindevils.vercel.app"><i>braindevils.vercel.app</i></a><br></li>
+<li><a href="https://github.com/darthvader58/terrader">Terrader</a> : A crypto-trading game that spreads awareness about crypto mining-caused carbon emissions. Available at <a href="terrader.vercel.app"><i>terrader.vercel.app</i></a><br></li>
+<li><a href="https://github.com/darthvader58/MeanBeanMachine">FPGA Implementation of Dr. Robotnik's Mean Bean Machine.</a> : Made in SystemVerilog for Nexys A7100T FPGA board.<br></li>
+<li><a href="https://github.com/darthvader58/linkedin_queens_solution">Linkedin Queens Game Solution</a> : Solves any N*N board. Supports multiple solutions too.<br></li>
+</ul>
+
+### Web-apps
+<ul>
+<li><a href="github.com/darthvader58/whatrobe">Whatrobe</a> : A web app that gives outfit recommendations and try-ons for your entire wardrobe, supported with fashion tagging as well as user personalization. Available at <a href="whatrobe.vercel.app"><i>whatrobe.vercel.app</i></a><br></li>
+<li><a href="github.com/arpan404/metal_lab">Metal Lab</a> : Metal Lab is a GPU-accelerated virtual physics lab that uses AI-guided experiments, interactive simulations, and games to deliver experiential learning. <br></li>
+<li><a href="github.com/darthvader58/biryani">Formath</a> : A web app that analyzes step-by-step math solutions from uploaded images, identifies errors, and provides feedback. Available at <a href="formath.vercel.app"><i>formath.vercel.app</i></a><br></li>
+</ul>
+
+### Web-Compilers
+<ul>
+<li><a href="github.com/darthvader58/knockscript">Knockscript</a> : A Programming Language based on Knock Knock Jokes. Available at <a href="knockscript.up.railway.app"><i>knockscript.up.railway.app</i></a><br></li>
+</ul>
+
+### Libraries and Tools
+<ul>
+  <li><a href="https://github.com/darthvader58/pip_--race">PitWit</a> : F1 race strategy optimization system using machine learning. Real-time analysis with Redis caching and ONNX model deployment.</li>
+  <li><a href="github.com/darthvader58/kcavo">KCAVO</a> : KubeCTL based Kubernetes cost analyzer and optimizer for cloud infrastructure management.</li>
+</ul>
+
+### ML
+<ul>
+  <li><a href="https://github.com/darthvader58/Machine_Learning_From_Scratch">ML Algorithms</a> made from scratch without libraries like tensorflow, pytorch or scikit-learn.</li>
+</ul>
+
+<hr>
+
+## My Life
+
 ### 🎓 Education 
 <ul type=square>
 <li>Undergraduate Junior at Arizona State University, B.S.E in Computer Systems Engr. + B.S in Mathematics.</li>  
