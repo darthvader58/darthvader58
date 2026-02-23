@@ -53,11 +53,11 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 
 ### Open-Source Contributions (Approved)
 <ul>
-  <li><a href="github.com/mochajs/mocha">MochaJs</a></li>
-  <li><a href="github.com/keras-team/keras">Keras</a></li>
-  <li><a href="github.com/pixijs/pixijs">PixiJs</a></li>
-  <li><a href="github.com/electron/electron">ElectronJs</a></li>
-  <li><a href="github.com/suitenumerique/meet">La Suite Meet</a></li>
+  <li><a href="github.com/mochajs/mocha">MochaJs</a></li> PR #5662, #5647
+  <li><a href="github.com/keras-team/keras">Keras</a></li>PR #22237
+  <li><a href="github.com/pixijs/pixijs">PixiJs</a></li> PR #11924
+  <li><a href="github.com/electron/electron">ElectronJs</a></li> PR #49778
+  <li><a href="github.com/suitenumerique/meet">La Suite Meet</a></li> PR #965
 </ul>
 
 <hr>
