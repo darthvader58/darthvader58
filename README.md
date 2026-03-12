@@ -59,6 +59,7 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
   <li><a href="github.com/pixijs/pixijs">PixiJs</a></li> PR #11924
   <li><a href="github.com/electron/electron">ElectronJs</a></li> PR #49778
   <li><a href="github.com/suitenumerique/meet">La Suite Meet</a></li> PR #965
+  <li><a href="github.com/supabase/supabase">Supabase</a></li> PR #41694
 </ul>
 
 <hr>
