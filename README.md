@@ -18,7 +18,7 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 <a href="https://open.spotify.com/show/3hOrhL4KTN4vRYUcfstmyy?si=126ae7984d674145"><img alt="Kavvy spotify" src="https://img.shields.io/badge/Write_It_Out-%1ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white&color=1ED760"></a><br>
 <hr>
 
-## Projects Highlight (The ones I am most proud of)
+## Projects Highlights
 ### Games
 <ul>
 <li><a href="https://github.com/darthvader58/numericle">Numericle</a> : Daily Math Sequence Finding Puzzle : Wordle but for mathematicians! Available at <a href="numericle.space"><i>numericle.space</i></a><br></li>
