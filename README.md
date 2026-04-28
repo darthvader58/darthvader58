@@ -30,21 +30,22 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 
 ### Web-apps
 <ul>
-<li><a href="github.com/darthvader58/whatrobe">Whatrobe</a> : A web app that gives outfit recommendations and try-ons for your entire wardrobe, supported with fashion tagging as well as user personalization. Available at <a href="whatrobe.vercel.app"><i>whatrobe.vercel.app</i></a><br></li>
-<li><a href="github.com/arpan404/metal_lab">Metal Lab</a> : Metal Lab is a GPU-accelerated virtual physics lab that uses AI-guided experiments, interactive simulations, and games to deliver experiential learning. <br></li>
-<li><a href="github.com/darthvader58/biryani">Formath</a> : A web app that analyzes step-by-step math solutions from uploaded images, identifies errors, and provides feedback. Available at <a href="formath.vercel.app"><i>formath.vercel.app</i></a><br></li>
+<li><a href="https://github.com/darthvader58/whatrobe">Whatrobe</a> : A web app that gives outfit recommendations and try-ons for your entire wardrobe, supported with fashion tagging as well as user personalization. Available at <a href="https://whatrobe.vercel.app"><i>whatrobe.vercel.app</i></a><br></li>
+<li><a href="https://github.com/arpan404/metal_lab">Metal Lab</a> : Metal Lab is a GPU-accelerated virtual physics lab that uses AI-guided experiments, interactive simulations, and games to deliver experiential learning. <br></li>
+<li><a href="https://github.com/darthvader58/biryani">Formath</a> : A web app that analyzes step-by-step math solutions from uploaded images, identifies errors, and provides feedback. Available at <a href="https://formath.vercel.app"><i>formath.vercel.app</i></a><br></li>
 </ul>
 
 ### Web-Compilers
 <ul>
-<li><a href="github.com/darthvader58/knockscript">Knockscript</a> : A toy Programming Language based on Knock Knock Jokes. Available at <a href="knockscript.up.railway.app"><i>knockscript.up.railway.app</i></a><br></li>
-<li><a href="github.com/darthvader58/kaleshscript">Kaleshscript</a> : A toy Programming Language based on Delhi's street language, memes and cusses. Available at <a href="kaleshscript.vercel.app"><i>kaleshscript.vercel.app</i></a><br></li>  
+<li><a href="https://github.com/darthvader58/knockscript">Knockscript</a> : A toy Programming Language based on Knock Knock Jokes. Available at <a href="knockscript.up.railway.app"><i>knockscript.up.railway.app</i></a><br></li>
+<li><a href="https://github.com/darthvader58/kaleshscript">Kaleshscript</a> : A toy Programming Language based on Delhi's street language, memes and cusses. Available at <a href="kaleshscript.vercel.app"><i>kaleshscript.vercel.app</i></a><br></li>  
 </ul>
 
 ### Libraries and Tools
 <ul>
   <li><a href="https://github.com/darthvader58/pip_--race">PitWit</a> : F1 race strategy optimization system using machine learning. Real-time analysis with Redis caching and ONNX model deployment.</li>
-  <li><a href="github.com/darthvader58/kcavo">KCAVO</a> : KubeCTL based Kubernetes cost analyzer and optimizer for cloud infrastructure management.</li>
+  <li><a href="https://github.com/darthvader58/kcavo">KCAVO</a> : KubeCTL based Kubernetes cost analyzer and optimizer for cloud infrastructure management.</li>
+  <li><a href="https://github.com/shiv-arora/hackprincetons26">Asclepius</a> : Enterprise tool for healthcare workers with an AI privacy firewall that lets them use latest LLM models without leaking private data.</li>
 </ul>
 
 ### ML
@@ -54,13 +55,13 @@ I am a passionate tech enthusiast who loves to innovate and build variety of pro
 
 ### Open-Source Contributions (Approved)
 <ul>
-  <li><a href="github.com/mochajs/mocha">MochaJs</a></li> PR #5662, #5647
-  <li><a href="github.com/keras-team/keras">Keras</a></li>PR #22237
-  <li><a href="github.com/pixijs/pixijs">PixiJs</a></li> PR #11924
-  <li><a href="github.com/electron/electron">ElectronJs</a></li> PR #49778
-  <li><a href="github.com/suitenumerique/meet">La Suite Meet</a></li> PR #965
-  <li><a href="github.com/supabase/supabase">Supabase</a></li> PR #41694
-  <li><a href="github.com/BasedHardware/omi">Omi</a></li> PR #6666
+  <li><a href="https://github.com/mochajs/mocha">MochaJs</a></li> PR #5662, #5647
+  <li><a href="https://github.com/keras-team/keras">Keras</a></li>PR #22237
+  <li><a href="https://github.com/pixijs/pixijs">PixiJs</a></li> PR #11924
+  <li><a href="https://github.com/electron/electron">ElectronJs</a></li> PR #49778
+  <li><a href="https://github.com/suitenumerique/meet">La Suite Meet</a></li> PR #965
+  <li><a href="https://github.com/supabase/supabase">Supabase</a></li> PR #41694
+  <li><a href="https://github.com/BasedHardware/omi">Omi</a></li> PR #6666
 </ul>
 
 <hr>
